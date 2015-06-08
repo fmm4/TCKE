@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Menu Principal Tyche</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="BTN_addProd">Adicionar Produto</string>
+    <string name="BTN_calcRota">Calcular Rota</string>
+    <string name="BTN_mallSelect">Selecionar Supermercado</string>
+    <string name="BTN_helpUse">Ajuda</string>
+    <string name="title_activity_add_prod">Menu de Adicionar Produtos</string>
+    <string name="BTN_newProd">Novo Produto</string>
+    <string name="BTN_listProd">Lista de Produtos</string>
+    <string name="BTN_return">Voltar</string>
+    <string name="title_activity_product_list">Menu de Lista de Produtos</string>
+    <string name="BTN_readCurrent">Ler nome do produto</string>
+    <string name="BTN_nextProd">Proximo produto</string>
+    <string name="BTN_removProd">Remover produto</string>
+    <string name="title_activity_speech_to_text_add_produto">SpeechToTextAddProduto</string>
+    <string name="speechToTextString">Reconhecedor de Voz</string>
+    <string name="BTN_Speak">Fale</string>
+    <string name="texto_stt">Fale o nome do seu produto.</string>
+    <string name="title_activity_splash">Tyche</string>
+    <string name="title_activity_calcular_rota">Menu de Rota</string>
+    <string name="BTN_backCalcRota">Voltar</string>
+    <string name="BTN_helpCalcRota">Ajuda</string>
+    <string name="BTN_guiarRota">Calcular Rota</string>
+    <string name="BTN_falarLista">Listar Produtos</string>
+
+</resources>
