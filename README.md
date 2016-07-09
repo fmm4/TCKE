@@ -6,7 +6,6 @@ Aqui é o repositório do projeto Tyche.
 
 * Já estão implementadas algumas funções, como reconhecer a frase por voz e adicionar o que foi dito em um vetor global.
 * Versão 08/06/15
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Como começar? ###
 
